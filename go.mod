@@ -1,6 +1,6 @@
-module github.com/infwavescode/goshopify/v3
+module github.com/infwavescode/goshopify/v4
 
-go 1.13
+go 1.16
 
 require (
 	github.com/google/go-querystring v1.0.0
