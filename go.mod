@@ -1,4 +1,4 @@
-module github.com/infwavescode/goshopify/v4
+module github.com/infwavescode/goshopify
 
 go 1.16
 
